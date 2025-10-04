@@ -1,4 +1,4 @@
-const Vendor = require('../models/vendor');
+const Vendor = require('../models/Vendor');
 const dotEnv = require('dotenv');
 const jwt = require('jsonwebtoken');
 const bcrypt = require('bcryptjs');
